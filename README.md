@@ -21,7 +21,7 @@ Pass text and a typing direction into the component to control its animation.
 
 ```javascript
 import React, { Component } from "react";
-import TypeWriter from "react-native-typewriter";
+import TypeWriter from "@salesp07/react-native-typewriter";
 
 class TypingText extends Component {
   render() {
